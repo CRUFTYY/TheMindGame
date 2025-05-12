@@ -1,8 +1,5 @@
 # The Mind Game
 
-Un juego de cartas multijugador en tiempo real donde los jugadores tienen que coordinarse para jugar las cartas en orden ascendente sin decir ni una palabra.  
-A real-time multiplayer card game where players must coordinate to play cards in ascending order without saying a word.  
-
 [English](#english) | [Español](#espa%C3%B1ol)
 
 ---
